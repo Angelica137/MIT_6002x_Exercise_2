@@ -21,5 +21,6 @@ g.addNode(n)
 
 Add the appropriate edges to the graph.
 
-Hint: How to get started?
-Write your code in terms of the nodes list from the code above. For each node, think about what permutation is allowed. A permutation of a set is a rearrangement of the elements in that set. In this problem, you are only adding edges between nodes whose permutations are between elements in the set beside each other . For example, an acceptable permutation (edge) is between "ABC" and "ACB" but not between "ABC" and "CAB".
+### Hint: How to get started?
+
+Write your code in terms of the nodes list from the code above. For each node, think about what permutation is allowed. A permutation of a set is an rearrangement of the elements in that set. In this problem, you are only adding edges between nodes whose permutations are between elements in the set beside each other . For example, an acceptable permutation (edge) is between "ABC" and "ACB" but not between "ABC" and "CAB".
